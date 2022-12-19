@@ -1,0 +1,12 @@
+name = "apiplatform"
+type = "webpack"
+account_id = ""
+workers_dev = true
+route = ""
+zone_id = ""
+webpack_config = "webpack.config.js"
+compatibility_date = "2022-02-15"
+vars = { TZ = "Europe/Copenhagen" }
+kv_namespaces = [ 
+	{ binding = "KV", id = "" }
+]
