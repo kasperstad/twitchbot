@@ -1,4 +1,4 @@
-# apiplatform
+# twitchbot
 
 An Public API Platform written and running on Cloudflare Workers
 
