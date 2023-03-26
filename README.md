@@ -1,10 +1,8 @@
 # twitchbot
 
-An Public API Platform written and running on Cloudflare Workers
+An Public API for Twitch Bots written and running on Cloudflare Workers
 
-## Twitch Bot API
-
-Twitch Bot API. This worker is currently only supported for two bots:
+This worker is currently only supported for two bots:
 
 * Nightbot
 * StreamElements Bot
@@ -18,7 +16,7 @@ This currently implements these services:
 
 MIT License
 
-Copyright (c) 2022 Kasper Stad
+Copyright (c) 2023 Kasper Stad
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
