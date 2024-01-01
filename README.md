@@ -1,5 +1,7 @@
 # twitchbot
 
+*This repository is now deprecated, as i'm not maintaining it anymore, use it if you like*
+
 An Public API for Twitch Bots written and running on Cloudflare Workers
 
 This worker is currently only supported for two bots:
